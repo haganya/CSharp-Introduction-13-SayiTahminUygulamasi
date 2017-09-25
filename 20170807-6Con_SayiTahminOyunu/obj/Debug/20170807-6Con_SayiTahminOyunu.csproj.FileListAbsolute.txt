@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-6Con_SayiTahminOyunu\20170807-6Con_SayiTahminOyunu\bin\Debug\20170807-6Con_SayiTahminOyunu.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-6Con_SayiTahminOyunu\20170807-6Con_SayiTahminOyunu\bin\Debug\20170807-6Con_SayiTahminOyunu.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-6Con_SayiTahminOyunu\20170807-6Con_SayiTahminOyunu\bin\Debug\20170807-6Con_SayiTahminOyunu.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-6Con_SayiTahminOyunu\20170807-6Con_SayiTahminOyunu\obj\Debug\20170807-6Con_SayiTahminOyunu.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-6Con_SayiTahminOyunu\20170807-6Con_SayiTahminOyunu\obj\Debug\20170807-6Con_SayiTahminOyunu.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-6Con_SayiTahminOyunu\20170807-6Con_SayiTahminOyunu\obj\Debug\20170807-6Con_SayiTahminOyunu.csprojResolveAssemblyReference.cache
